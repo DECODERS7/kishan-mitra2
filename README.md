@@ -1,6 +1,6 @@
-# Krishi Setu Backend
+# Kisan mitra Backend
 
-Backend for Krishi Setu - Farmer Procurement & Direct Marketplace Platform.
+Backend for Kisan mitra - Farmer Procurement & Direct Marketplace Platform.
 
 ## Quick Start
 
