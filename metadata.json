@@ -1,0 +1,6 @@
+{
+  "name": "Kishan Mitra",
+  "description": "Kishan Mitra (किसानMitra) - AI-Powered Farmer Procurement, Mandi Slot Booking, Direct Marketplace & Bidding, Real-Time Mandi Prices, Weather Advisory, and Farm Intelligence.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
